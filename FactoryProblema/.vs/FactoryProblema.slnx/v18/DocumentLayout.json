@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johan\\source\\repos\\FactoryProblema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73348A17-6E3C-4BB6-9EEE-5B9D777C464A}|FactoryProblema\\FactoryProblema.csproj|c:\\users\\johan\\source\\repos\\factoryproblema\\factoryproblema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73348A17-6E3C-4BB6-9EEE-5B9D777C464A}|FactoryProblema\\FactoryProblema.csproj|solutionrelative:factoryproblema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73348A17-6E3C-4BB6-9EEE-5B9D777C464A}|FactoryProblema\\FactoryProblema.csproj|c:\\users\\johan\\source\\repos\\factoryproblema\\factoryproblema\\sedan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73348A17-6E3C-4BB6-9EEE-5B9D777C464A}|FactoryProblema\\FactoryProblema.csproj|solutionrelative:factoryproblema\\sedan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73348A17-6E3C-4BB6-9EEE-5B9D777C464A}|FactoryProblema\\FactoryProblema.csproj|c:\\users\\johan\\source\\repos\\factoryproblema\\factoryproblema\\compacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73348A17-6E3C-4BB6-9EEE-5B9D777C464A}|FactoryProblema\\FactoryProblema.csproj|solutionrelative:factoryproblema\\compacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73348A17-6E3C-4BB6-9EEE-5B9D777C464A}|FactoryProblema\\FactoryProblema.csproj|c:\\users\\johan\\source\\repos\\factoryproblema\\factoryproblema\\suv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73348A17-6E3C-4BB6-9EEE-5B9D777C464A}|FactoryProblema\\FactoryProblema.csproj|solutionrelative:factoryproblema\\suv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Suv.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\FactoryProblema\\FactoryProblema\\Suv.cs",
+              "RelativeDocumentMoniker": "FactoryProblema\\Suv.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\FactoryProblema\\FactoryProblema\\Suv.cs",
+              "RelativeToolTip": "FactoryProblema\\Suv.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T23:31:26.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Compacto.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\FactoryProblema\\FactoryProblema\\Compacto.cs",
+              "RelativeDocumentMoniker": "FactoryProblema\\Compacto.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\FactoryProblema\\FactoryProblema\\Compacto.cs",
+              "RelativeToolTip": "FactoryProblema\\Compacto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T23:31:16.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sedan.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\FactoryProblema\\FactoryProblema\\Sedan.cs",
+              "RelativeDocumentMoniker": "FactoryProblema\\Sedan.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\FactoryProblema\\FactoryProblema\\Sedan.cs",
+              "RelativeToolTip": "FactoryProblema\\Sedan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T23:31:01.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\FactoryProblema\\FactoryProblema\\Program.cs",
+              "RelativeDocumentMoniker": "FactoryProblema\\Program.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\FactoryProblema\\FactoryProblema\\Program.cs",
+              "RelativeToolTip": "FactoryProblema\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T23:30:39.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

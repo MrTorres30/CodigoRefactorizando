@@ -1,0 +1,14 @@
+C:\Users\johan\source\repos\FactoryProblema\FactoryProblema\bin\Debug\net10.0\FactoryProblema.exe
+C:\Users\johan\source\repos\FactoryProblema\FactoryProblema\bin\Debug\net10.0\FactoryProblema.deps.json
+C:\Users\johan\source\repos\FactoryProblema\FactoryProblema\bin\Debug\net10.0\FactoryProblema.runtimeconfig.json
+C:\Users\johan\source\repos\FactoryProblema\FactoryProblema\bin\Debug\net10.0\FactoryProblema.dll
+C:\Users\johan\source\repos\FactoryProblema\FactoryProblema\bin\Debug\net10.0\FactoryProblema.pdb
+C:\Users\johan\source\repos\FactoryProblema\FactoryProblema\obj\Debug\net10.0\FactoryProblema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\source\repos\FactoryProblema\FactoryProblema\obj\Debug\net10.0\FactoryProblema.AssemblyInfoInputs.cache
+C:\Users\johan\source\repos\FactoryProblema\FactoryProblema\obj\Debug\net10.0\FactoryProblema.AssemblyInfo.cs
+C:\Users\johan\source\repos\FactoryProblema\FactoryProblema\obj\Debug\net10.0\FactoryProblema.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\FactoryProblema\FactoryProblema\obj\Debug\net10.0\FactoryProblema.dll
+C:\Users\johan\source\repos\FactoryProblema\FactoryProblema\obj\Debug\net10.0\refint\FactoryProblema.dll
+C:\Users\johan\source\repos\FactoryProblema\FactoryProblema\obj\Debug\net10.0\FactoryProblema.pdb
+C:\Users\johan\source\repos\FactoryProblema\FactoryProblema\obj\Debug\net10.0\FactoryProblema.genruntimeconfig.cache
+C:\Users\johan\source\repos\FactoryProblema\FactoryProblema\obj\Debug\net10.0\ref\FactoryProblema.dll
