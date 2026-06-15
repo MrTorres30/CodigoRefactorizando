@@ -4,15 +4,11 @@ using System.Text;
 
 namespace FactoryProblema
 {
-    internal class Sedan
+    internal class Sedan : Vehiculo
     {
-        public string Marca { get; set; }
-        public decimal Precio { get; set; }
-
-        public override string ToString()
-        {
-            return $"Marca: {Marca}. Precio: {Precio}";
-        }
+      public Sedan(string marca, double precio) : base(marca, precio)
+    {
+    }
              
     }
 }
